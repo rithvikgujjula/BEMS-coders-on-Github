@@ -1,3 +1,11 @@
+//Description - A vending machine coded in Java. It takes coins and gives out imaginary food items
+
+
+
+
+
+
+
 package com.company;
 import java.util.Scanner;
 
