@@ -1,9 +1,6 @@
-# python-project
-Rithvik and Amaan work on a python project
-Attached below is a guide if you are new to Github are need any refreshers
+#robotics-on-github
 
-Amaan/Brian make an edit below the link to see if u are allowed to make changes
+3 Robotics Coders form together to share VEX code and documentation.  If you want you can also share code as long as you describe what it is
 
-Or make a new file and say "Hello World" in python
 
 https://guides.github.com/activities/hello-world/
