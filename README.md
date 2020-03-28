@@ -1,6 +1,9 @@
-#robotics-on-github
+#BEMS-coders-on-github
 
-3 Robotics Coders form together to share VEX code and documentation.  If you want you can also share code as long as you describe what it is
-
+BEMS Coders form together to code during the school closure
 
 https://guides.github.com/activities/hello-world/
+
+https://amzn.to/2QSHtXC
+
+https://www.codecademy.com/learn/learn-alexa
